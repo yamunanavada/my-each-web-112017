@@ -10,4 +10,5 @@ def my_each(array) # put argument(s) here
     "This block should not run!"
 
   end
+  array
 end
