@@ -6,8 +6,8 @@ def my_each(array) # put argument(s) here
       yield array[i]
       i = i + 1
     end
-  else 
+  else
     "This block should not run!"
-    
+
   end
 end
